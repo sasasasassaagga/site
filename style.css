@@ -1,0 +1,199 @@
+body {
+    background-image: url("дада.jpg");
+    background-size: contain;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+li{
+    color: #FFF;
+}
+
+header {
+    background-color: #00171f;
+    color: #FFF;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #00171f;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #000;
+}
+.form-container {
+    max-width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #00a8e8;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #000;
+}
+
+h1 {
+    font-size: 28px;
+    color: #ffffff;
+    position: relative;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    color: #FFF;
+}
+
+th {
+    color: #fff;
+}
+.fokus{
+    color: #fff;
+}
+video {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+ a{
+    text-decoration: none;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    text-align: center;
+ }
+h2{
+    color: #FFF;
+}
+h3{
+    color: #FFF;
+}
+
+
+.social-links a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 24px;
+    margin-right: 20px;
+    color: #fff;
+}
+
+.social-links a:hover {
+    color: #007bff;
+}
+.link{
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    font-size: 24px;
+    margin-right: 20px;
+    color: #022b3a;
+}
+
+.box{
+    max-width: 800px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    padding: 20px;
+    background-color: #022b3a;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #000;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  padding: 16px;
+}
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+
+a {
+  color: dodgerblue;
+}
+.signin {
+  background-color: #00ccff;
+  text-align: center;
+}
+
+.link-container {
+    text-align: center;
+}
+
+.link-container a {
+    display: inline-block;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.fab{
+    margin-right: 45px;
+    margin-left: 50px;
+}
+i{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+}
